@@ -240,3 +240,139 @@
     </div>
   </div>
 </div>
+
+<div class="inventory">
+  <div class="top-bar">
+    <img class="figma" src="figma0.svg" />
+    <div class="title">Inventory</div>
+    <div class="navigation">
+      <div class="tab">Home</div>
+      <div class="tab">Cases</div>
+      <div class="tab">Inventory</div>
+      <div class="tab">Contact Us</div>
+      <div class="textfield">
+        <div class="text">Search in site</div>
+        <img class="ic-search" src="ic-search0.svg" />
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="title2">Store Your Winnings and Knives</div>
+      <div class="description">
+        Keep track of your items in the inventory system.
+      </div>
+      <div class="button">
+        <div class="seconday">
+          <div class="title3">Add More</div>
+        </div>
+        <div class="primary">
+          <div class="title4">Withdraw</div>
+        </div>
+      </div>
+    </div>
+    <div class="image-container">
+      <img class="image-1" src="image-10.png" />
+    </div>
+    <img class="vector-200" src="vector-2000.svg" />
+  </div>
+  <div class="products">
+    <div class="container2">
+      <div class="container">
+        <div class="title2">Withdraw your winnings!</div>
+        <div class="description">
+          Each box represents a storage slot for your winnings.
+        </div>
+        <div class="button2">
+          <div class="primary">
+            <div class="title4">View Details</div>
+          </div>
+        </div>
+      </div>
+      <div class="image-container2">
+        <img class="image-5" src="image-50.png" />
+      </div>
+    </div>
+    <div class="list">
+      <div class="row">
+        <div class="card">
+          <div class="image-container3">
+            <div class="image">
+              <div class="tag">
+                <div class="text2">Minimal Wear</div>
+              </div>
+              <img class="image-2" src="image-20.png" />
+            </div>
+          </div>
+          <div class="text-content">
+            <div class="title5">Box 1</div>
+            <div class="subtitle">Butterfly | Slaughter</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="image-container3">
+            <div class="image">
+              <div class="tag">
+                <div class="text2">Factory New</div>
+              </div>
+              <img class="image-3" src="image-30.png" />
+            </div>
+          </div>
+          <div class="text-content">
+            <div class="title5">Box 2</div>
+            <div class="subtitle">M9 Bayonet | Marble Fade</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="image-container3">
+            <div class="image">
+              <div class="tag">
+                <div class="text2">Battle Scarred</div>
+              </div>
+              <img class="image-4" src="image-40.png" />
+            </div>
+          </div>
+          <div class="text-content">
+            <div class="title5">Box 3</div>
+            <div class="subtitle">Skeleton Knife | Stained</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img class="vector-2002" src="vector-2001.svg" />
+  </div>
+  <div class="list2">
+    <div class="container">
+      <div class="title2">Inventory Summary</div>
+      <div class="description">Overview of your stored items</div>
+      <div class="button2">
+        <div class="primary">
+          <div class="title4">Manage Inventory</div>
+        </div>
+      </div>
+    </div>
+    <div class="list3">
+      <div class="row">
+        <div class="item">
+          <div class="frame">
+            <div class="icon">🔪</div>
+          </div>
+          <div class="frame-427318906">
+            <div class="title6">Knife Collection</div>
+            <div class="subtitle2">Total Knives</div>
+          </div>
+          <div class="subtitle3">3</div>
+        </div>
+      </div>
+    </div>
+    <img class="vector-2003" src="vector-2002.svg" />
+  </div>
+  <div class="section2">
+    <div class="container3">
+      <div class="title7">Contact Us</div>
+      <div class="title8">Privacy Policy</div>
+      <div class="title9">Terms &amp; Conditions</div>
+    </div>
+  </div>
+</div>
+
