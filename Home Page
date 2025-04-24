@@ -1,0 +1,242 @@
+<div class="home-page">
+  <div class="top-bar">
+    <img class="figma" src="figma0.svg" />
+    <div class="title">Cases R us</div>
+    <div class="navigation">
+      <div class="tab">Home</div>
+      <div class="tab">Cases</div>
+      <div class="tab">Inventory</div>
+      <div class="tab">Contact Us</div>
+      <div class="textfield">
+        <div class="text">Search in site</div>
+        <img class="ic-search" src="ic-search0.svg" />
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="title2">Verify your age!</div>
+      <div class="description">
+        Verify your age by scanning your Passport/ID and face to get into this
+        website to start opening cases!
+      </div>
+      <div class="button">
+        <div class="primary">
+          <div class="title3">Verify</div>
+        </div>
+      </div>
+    </div>
+    <img class="vector-200" src="vector-2000.svg" />
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="title4">Welcome to the CS:GO Case Opener</div>
+      <div class="description2">
+        Experience the thrill of opening virtual cases and getting exciting
+        rewards!
+      </div>
+      <div class="button">
+        <div class="primary">
+          <div class="title3">Login</div>
+        </div>
+      </div>
+      <div class="button2">
+        <div class="primary">
+          <div class="title3">Sign Up</div>
+        </div>
+      </div>
+    </div>
+    <img class="image-1" src="image-10.png" />
+    <img class="vector-2002" src="vector-2001.svg" />
+  </div>
+  <div class="products">
+    <div class="container2">
+      <div class="container3">
+        <div class="title4">Featured Cases</div>
+        <div class="description2">
+          Explore some of the most popular case collections
+        </div>
+        <div class="button3">
+          <div class="primary2">
+            <div class="title3">Open Case</div>
+          </div>
+        </div>
+      </div>
+      <img class="image-3" src="image-30.png" />
+    </div>
+    <div class="list">
+      <div class="row">
+        <div class="card">
+          <div class="image-container">
+            <img class="image-2" src="image-20.png" />
+          </div>
+          <div class="text-content">
+            <div class="title5">20 Years of CS Case</div>
+            <div class="subtitle">
+              This rare case is made to show the celebration of 20 years of CS.
+            </div>
+          </div>
+        </div>
+        <div class="card2">
+          <div class="image-container">
+            <img class="image-4" src="image-40.png" />
+          </div>
+          <div class="text-content">
+            <div class="title5">BloodHound Case</div>
+            <div class="subtitle">Rare new knives within this new case!</div>
+          </div>
+        </div>
+        <div class="card3">
+          <div class="image-container2">
+            <img class="image-6" src="image-60.png" />
+          </div>
+          <div class="text-content">
+            <div class="title5">OG Case</div>
+            <div class="subtitle">
+              OG CS:GO case to remember the good old days!
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img class="vector-2003" src="vector-2002.svg" />
+  </div>
+  <div class="contents">
+    <div class="container2">
+      <div class="image-container3">
+        <img class="image-9" src="image-90.png" />
+      </div>
+      <div class="container3">
+        <div class="title4">Game Tips</div>
+        <div class="description2">
+          Improve your gameplay with these useful tips and tricks
+        </div>
+        <div class="button3">
+          <div class="primary2">
+            <div class="title3">Learn More</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="list2">
+      <div class="row2">
+        <div class="article">
+          <div class="image-container4">
+            <img class="image-7" src="image-70.png" />
+          </div>
+          <div class="frame-427318906">
+            <div class="title6">Tip 1</div>
+            <div class="subtitle2">
+              Having more expensive skins means you will play better!
+            </div>
+          </div>
+        </div>
+        <div class="article">
+          <div class="image-container5">
+            <img class="image-8" src="image-80.png" />
+          </div>
+          <div class="frame-427318906">
+            <div class="title6">Tip 2</div>
+            <div class="subtitle2">Aim head</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img class="vector-2004" src="vector-2003.svg" />
+  </div>
+  <div class="reviews">
+    <div class="container4">
+      <div class="container5">
+        <div class="title4">Player Reviews</div>
+        <div class="description2">
+          See what other players are saying about our case opening experience
+        </div>
+        <div class="button3">
+          <div class="primary2">
+            <div class="title3">Write a Review</div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="image-container6"
+        style="
+          background: url(image-container6.png) center;
+          background-size: cover;
+          background-repeat: no-repeat;
+        "
+      >
+        <div class="image"></div>
+      </div>
+    </div>
+    <div class="list2">
+      <div class="row">
+        <div class="card4">
+          <div class="user">
+            <div class="avatar">
+              <div class="avatar2">
+                <img class="image-10" src="image-100.png" />
+              </div>
+              <div class="frame-4273189062">
+                <div class="title7">KennyS</div>
+              </div>
+            </div>
+            <img class="frame-427318817" src="frame-4273188170.svg" />
+          </div>
+          <div class="title8">
+            I bought my awp skin from here, would buy again.
+          </div>
+        </div>
+        <div class="card5">
+          <div class="user">
+            <div class="avatar3">
+              <div class="avatar2">
+                <img class="image-11" src="image-110.png" />
+              </div>
+              <div class="frame-4273189063">
+                <div class="title7">Anomaly</div>
+              </div>
+            </div>
+            <img class="frame-4273188172" src="frame-4273188171.svg" />
+          </div>
+          <div class="title9">KNIF KNIF KNIF!!!!!</div>
+        </div>
+        <div class="card4">
+          <div class="user">
+            <div class="avatar">
+              <div class="avatar2">
+                <img class="image-12" src="image-120.png" />
+              </div>
+              <div class="frame-4273189062">
+                <div class="title7">Papa-nomaly</div>
+              </div>
+            </div>
+            <img class="frame-4273188173" src="frame-4273188172.svg" />
+          </div>
+          <div class="title8">Very nice!🍺🍺🍺</div>
+        </div>
+        <div class="card4">
+          <div class="user">
+            <div class="avatar">
+              <div class="avatar2">
+                <img class="image-13" src="image-130.png" />
+              </div>
+              <div class="frame-4273189062">
+                <div class="title7">OhnePixel</div>
+              </div>
+            </div>
+            <img class="frame-4273188174" src="frame-4273188173.svg" />
+          </div>
+          <div class="title8">GOLD GOLD GOLD!!!!!!!!!!!</div>
+        </div>
+      </div>
+    </div>
+    <img class="vector-2005" src="vector-2004.svg" />
+  </div>
+  <div class="section2">
+    <div class="container6">
+      <div class="title10">© 2025 CasesRus. All rights reserved.</div>
+      <div class="title11">Terms &amp; Conditions</div>
+      <div class="title12">Privacy Policy</div>
+    </div>
+  </div>
+</div>
